@@ -1,0 +1,8 @@
+import numpy as np
+def convolucion(A,B);
+C=np.z
+for i in range (3):
+for j in range (3):
+C+=(A[i][j]*B[i][j])
+print (C)
+matriz = 
